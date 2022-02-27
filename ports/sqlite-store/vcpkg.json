@@ -1,0 +1,6 @@
+{
+    "name": "sqlite-store",
+    "version": "0.1.0",
+    "description": "SQLite-based document/object store",
+    "homepage": "https://github.com/richard-vock/sqlite_store"
+}
